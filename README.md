@@ -1,8 +1,6 @@
 # Hello, I'm Wheeler
 <a href="https://linkedin.com/in/wheelerschmidt/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a recent graduate who is passionate about technology and driven by the challenge of solving complex problems with creativity, persistence, and a commitment to continuous learning.
 
 ## Objective
