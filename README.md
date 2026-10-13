@@ -4,7 +4,6 @@
 I am a recent graduate who is passionate about technology and driven by the challenge of solving complex problems with creativity, persistence, and a commitment to continuous learning.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey as an Environmental, Health and Safety Technician has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
